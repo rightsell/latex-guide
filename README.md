@@ -1,4 +1,4 @@
-# latex-workshop
+# LaTeX Guide
 
 ## :rocket: Start [here](guide/introduction.md) for the step-by-step guide.
 
